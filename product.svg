@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="product.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0458614"
+     inkscape:cx="299.75291"
+     inkscape:cy="564.12829"
+     inkscape:window-width="1916"
+     inkscape:window-height="1155"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <defs
+     id="defs1">
+    <rect
+       x="408.27589"
+       y="338.47697"
+       width="325.09088"
+       height="84.141168"
+       id="rect31" />
+    <rect
+       x="67.886624"
+       y="694.16464"
+       width="198.87912"
+       height="57.368978"
+       id="rect15" />
+    <rect
+       x="97.358384"
+       y="309.65375"
+       width="214.99977"
+       height="196.06897"
+       id="rect9" />
+    <rect
+       x="194.71677"
+       y="968.17506"
+       width="382.67254"
+       height="110.88038"
+       id="rect71" />
+    <rect
+       x="67.886624"
+       y="694.16464"
+       width="198.87912"
+       height="57.368978"
+       id="rect17" />
+    <rect
+       x="67.886624"
+       y="694.16464"
+       width="198.87912"
+       height="57.368978"
+       id="rect19" />
+    <rect
+       x="67.886624"
+       y="694.16464"
+       width="198.87912"
+       height="57.368978"
+       id="rect22" />
+    <rect
+       x="67.886624"
+       y="694.16464"
+       width="198.87912"
+       height="57.368978"
+       id="rect24" />
+  </defs>
+  <rect
+     style="fill:#ffffff;stroke:none;stroke-width:0.264583"
+     id="rect76"
+     width="206.79079"
+     height="294.80209"
+     x="1.4310781"
+     y="0"
+     inkscape:label="background-white" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g11"
+       inkscape:label="title">
+      <rect
+         style="fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+         id="rect1"
+         width="189.73595"
+         height="29.345827"
+         x="9.1073256"
+         y="8.0953999"
+         ry="0.072509766" />
+      <text
+         xml:space="preserve"
+         style="font-size:14.1111px;writing-mode:lr-tb;direction:ltr;fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+         x="74.376488"
+         y="25.804087"
+         id="text1"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;stroke:#ffffff;stroke-width:0.264583"
+           x="74.376488"
+           y="25.804087"
+           id="tspan3">BASALAM</tspan></text>
+      <a
+         id="a3"
+         xlink:href="index.svg"
+         xlink:title="Go Home">
+        <g
+           id="g69"
+           inkscape:label="logo"
+           transform="translate(151.28279,-1.9370406)"
+           style="fill:#6c5353;stroke:#e3dbdb">
+          <circle
+             style="fill:#6c5353;stroke:#e3dbdb;stroke-width:0.264583"
+             id="path68"
+             cx="26.832716"
+             cy="24.328327"
+             r="11.090856" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#6c5353;stroke:#e3dbdb;stroke-width:0.264583"
+             x="21.82394"
+             y="25.043867"
+             id="text69"><tspan
+               sodipodi:role="line"
+               id="tspan69"
+               style="fill:#6c5353;stroke-width:0.264583;stroke:#e3dbdb"
+               x="21.82394"
+               y="25.043867">logo</tspan></text>
+        </g>
+      </a>
+      <g
+         id="g77"
+         inkscape:label="menu"
+         transform="translate(0,3.1750001)">
+        <rect
+           style="fill:#6c5353;stroke:#e3dbdb;stroke-width:0.264583"
+           id="rect77"
+           width="25.045145"
+           height="8.348382"
+           x="15.431856"
+           y="10.372231" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#6c5353;stroke:#e3dbdb;stroke-width:0.264583"
+           x="26.56303"
+           y="15.937819"
+           id="text77"><tspan
+             sodipodi:role="line"
+             id="tspan77"
+             style="fill:#ffffff;stroke-width:0.264583"
+             x="26.56303"
+             y="15.937819">☰</tspan></text>
+      </g>
+      <a
+         id="a35"
+         xlink:href="cart.svg"
+         xlink:title="Go to shopping cart page">
+        <g
+           id="g78"
+           inkscape:label="cart"
+           transform="translate(0,13.201435)">
+          <rect
+             style="fill:#6c5353;stroke:#e3dbdb;stroke-width:0.264583"
+             id="rect78"
+             width="25.045145"
+             height="8.348382"
+             x="15.431856"
+             y="10.372231" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:none;stroke-width:0.264583"
+             x="22.960682"
+             y="28.248953"
+             id="text78"
+             transform="translate(0,-13.201435)"><tspan
+               sodipodi:role="line"
+               id="tspan78"
+               style="stroke-width:0.264583;-inkscape-font-specification:sans-serif;font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+               x="22.960682"
+               y="28.248953">cart</tspan></text>
+        </g>
+      </a>
+      <text
+         xml:space="preserve"
+         style="font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:0.264583"
+         x="92.577553"
+         y="33.90406"
+         id="text5"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#241c1c;stroke-width:0.264583"
+           x="92.577553"
+           y="33.90406"
+           id="tspan6">product</tspan></text>
+    </g>
+    <g
+       id="g10"
+       inkscape:label="search bar">
+      <rect
+         style="fill:#e3dbdb;stroke:#483737;stroke-width:0.264583"
+         id="rect4"
+         width="189.22998"
+         height="17.202724"
+         x="9.1073256"
+         y="40.982964"
+         ry="0.072509766" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#e3dbdb;stroke:#483737;stroke-width:0.264583"
+         x="50.09029"
+         y="53.63203"
+         id="text4"><tspan
+           sodipodi:role="line"
+           style="fill:#b3b3b3;stroke:none;stroke-width:0.264583"
+           x="50.09029"
+           y="53.63203"
+           id="tspan5">search anything</tspan></text>
+    </g>
+    <g
+       id="g71"
+       inkscape:label="footer">
+      <rect
+         style="fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+         id="rect69"
+         width="188.90231"
+         height="38.639111"
+         x="9.3020077"
+         y="252.22752"
+         ry="0.072509766" />
+      <g
+         id="g70"
+         inkscape:label="logo"
+         transform="matrix(1.4781673,0,0,1.4781673,137.43268,236.30127)">
+        <circle
+           style="fill:#483737;stroke:#483737;stroke-width:0.264583"
+           id="circle69"
+           cx="26.832716"
+           cy="24.328327"
+           r="11.090856" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#483737;stroke:#483737;stroke-width:0.264583"
+           x="21.82394"
+           y="25.043867"
+           id="text70"><tspan
+             sodipodi:role="line"
+             id="tspan70"
+             style="fill:#e3dbdb;stroke-width:0.264583"
+             x="21.82394"
+             y="25.043867">logo</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,5.7243125,3.2199258)"
+         id="text71"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect71);display:inline;fill:#c8b7b7;stroke:#483737"><tspan
+           x="194.7168"
+           y="985.16015"
+           id="tspan12"><tspan
+             style="fill:#483737;stroke:none"
+             id="tspan11">Lorem ipsum dolor sit amet, consectetur </tspan></tspan><tspan
+           x="194.7168"
+           y="1008.4935"
+           id="tspan16"><tspan
+             style="fill:#483737;stroke:none"
+             id="tspan13">adipiscing elit, sed do eiusmod tempor </tspan></tspan><tspan
+           x="194.7168"
+           y="1031.8269"
+           id="tspan18"><tspan
+             style="fill:#483737;stroke:none"
+             id="tspan17">incididunt ut labore et exercitation </tspan></tspan><tspan
+           x="194.7168"
+           y="1055.1603"
+           id="tspan31"><tspan
+             style="fill:#483737;stroke:none"
+             id="tspan19">ullamco laboris nisi ut.</tspan></tspan></text>
+      <rect
+         style="fill:#6c5353;stroke:#e3dbdb;stroke-width:0.264583"
+         id="rect72"
+         width="8.9442387"
+         height="8.9442387"
+         x="16.815168"
+         y="258.66736" />
+      <rect
+         style="fill:#6c5353;stroke:#e3dbdb;stroke-width:0.264583"
+         id="rect73"
+         width="8.9442387"
+         height="8.9442387"
+         x="30.052641"
+         y="258.66736" />
+      <rect
+         style="fill:#6c5353;stroke:#e3dbdb;stroke-width:0.264583"
+         id="rect74"
+         width="8.9442387"
+         height="8.9442387"
+         x="30.052641"
+         y="270.83151" />
+      <rect
+         style="fill:#6c5353;stroke:#e3dbdb;stroke-width:0.264583"
+         id="rect75"
+         width="8.9442387"
+         height="8.9442387"
+         x="16.815168"
+         y="270.83151" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2">
+    <g
+       id="g9"
+       inkscape:label="similar products"
+       transform="translate(0.50837592,145.23729)">
+      <rect
+         style="fill:#e3dbdb;stroke:#483737;stroke-width:0.264583"
+         id="rect6"
+         width="188.72403"
+         height="43.006813"
+         x="9.1073246"
+         y="62.233391"
+         ry="0.072509766" />
+      <rect
+         style="fill:#c8b7b7;stroke:#483737;stroke-width:0.294187"
+         id="rect9-2"
+         width="47.725555"
+         height="7.5598345"
+         x="11.651939"
+         y="63.766075"
+         ry="0.072226934" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+         x="13.408007"
+         y="68.810905"
+         id="text9"><tspan
+           sodipodi:role="line"
+           id="tspan9-8"
+           style="font-size:4.93889px;fill:#000000;stroke-width:0.264583"
+           x="13.408007"
+           y="68.810905">similiar products</tspan></text>
+      <a
+         id="a1"
+         xlink:href="product.svg"
+         xlink:title="Go to product page">
+        <g
+           id="g20"
+           inkscape:label="product"
+           transform="translate(148.5,-0.75894377)">
+          <rect
+             style="fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             id="rect20"
+             width="28.839863"
+             height="29.598806"
+             x="18.467632"
+             y="73.870529"
+             ry="0.072509766" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             x="22.768314"
+             y="89.80835"
+             id="text20"><tspan
+               sodipodi:role="line"
+               id="tspan20"
+               style="fill:#000000;stroke-width:0.264583"
+               x="22.768314"
+               y="89.80835">product</tspan></text>
+        </g>
+      </a>
+      <a
+         id="a2"
+         xlink:href="product.svg"
+         xlink:title="Go to product page"
+         transform="translate(-30.768179)">
+        <g
+           id="g2"
+           inkscape:label="product"
+           transform="translate(148.5,-0.75894377)">
+          <rect
+             style="fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             id="rect2"
+             width="28.839863"
+             height="29.598806"
+             x="18.467632"
+             y="73.870529"
+             ry="0.072509766" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             x="22.768314"
+             y="89.80835"
+             id="text2"><tspan
+               sodipodi:role="line"
+               id="tspan2"
+               style="fill:#000000;stroke-width:0.264583"
+               x="22.768314"
+               y="89.80835">product</tspan></text>
+        </g>
+      </a>
+      <a
+         id="a5"
+         xlink:href="product.svg"
+         xlink:title="Go to product page"
+         transform="translate(-61.536358)"
+         inkscape:label="a3">
+        <g
+           id="g5"
+           inkscape:label="product"
+           transform="translate(148.5,-0.75894377)">
+          <rect
+             style="fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             id="rect3"
+             width="28.839863"
+             height="29.598806"
+             x="18.467632"
+             y="73.870529"
+             ry="0.072509766" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             x="22.768314"
+             y="89.80835"
+             id="text5-9"><tspan
+               sodipodi:role="line"
+               id="tspan4"
+               style="fill:#000000;stroke-width:0.264583"
+               x="22.768314"
+               y="89.80835">product</tspan></text>
+        </g>
+      </a>
+      <a
+         id="a6"
+         xlink:href="product.svg"
+         xlink:title="Go to product page"
+         transform="translate(-92.662307)"
+         inkscape:label="a4">
+        <g
+           id="g6"
+           inkscape:label="product"
+           transform="translate(148.5,-0.75894377)">
+          <rect
+             style="fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             id="rect5"
+             width="28.839863"
+             height="29.598806"
+             x="18.467632"
+             y="73.870529"
+             ry="0.072509766" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             x="22.768314"
+             y="89.80835"
+             id="text6"><tspan
+               sodipodi:role="line"
+               id="tspan6-7"
+               style="fill:#000000;stroke-width:0.264583"
+               x="22.768314"
+               y="89.80835">product</tspan></text>
+        </g>
+      </a>
+      <a
+         id="a7"
+         xlink:href="product.svg"
+         xlink:title="Go to product page"
+         transform="translate(-123.78826)"
+         inkscape:label="a5">
+        <g
+           id="g7"
+           inkscape:label="product"
+           transform="translate(148.5,-0.75894377)">
+          <rect
+             style="fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             id="rect7-3"
+             width="28.839863"
+             height="29.598806"
+             x="18.467632"
+             y="73.870529"
+             ry="0.072509766" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             x="22.768314"
+             y="89.80835"
+             id="text7"><tspan
+               sodipodi:role="line"
+               id="tspan7"
+               style="fill:#000000;stroke-width:0.264583"
+               x="22.768314"
+               y="89.80835">product</tspan></text>
+        </g>
+      </a>
+      <a
+         id="a8"
+         xlink:href="product.svg"
+         xlink:title="Go to product page"
+         transform="translate(-154.91421)"
+         inkscape:label="a6">
+        <g
+           id="g8"
+           inkscape:label="product"
+           transform="translate(148.5,-0.75894377)">
+          <rect
+             style="fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             id="rect8-6"
+             width="28.839863"
+             height="29.598806"
+             x="18.467632"
+             y="73.870529"
+             ry="0.072509766" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             x="22.768314"
+             y="89.80835"
+             id="text8-1"><tspan
+               sodipodi:role="line"
+               id="tspan8"
+               style="fill:#000000;stroke-width:0.264583"
+               x="22.768314"
+               y="89.80835">product</tspan></text>
+        </g>
+      </a>
+    </g>
+    <g
+       id="g12"
+       inkscape:label="product">
+      <rect
+         style="fill:#e3dbdb;stroke:#241c1c;stroke-width:0.264583"
+         id="rect7"
+         width="188.5446"
+         height="98.386612"
+         x="9.4883804"
+         y="60.105282"
+         ry="0.20698439" />
+      <rect
+         style="fill:#483737;stroke:#241c1c;stroke-width:0.264583"
+         id="rect8"
+         width="86.222458"
+         height="86.937988"
+         x="12.879703"
+         y="65.114052"
+         ry="0.20698439" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,1.4310781,8.5864686)"
+         id="text8"
+         style="font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect9);fill:#e3dbdb;stroke:#241c1c"
+         x="107.49989"
+         y="0"><tspan
+           x="122.21293"
+           y="343.62294"
+           id="tspan33"><tspan
+             style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold';stroke:none"
+             id="tspan32">product
+</tspan></tspan><tspan
+           x="137.24678"
+           y="390.28957"
+           id="tspan35"><tspan
+             style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold';stroke:none"
+             id="tspan34">image   </tspan></tspan></text>
+    </g>
+    <g
+       id="g13"
+       inkscape:label="comments">
+      <rect
+         style="fill:#e3dbdb;stroke:#483737;stroke-width:0.281906"
+         id="rect12"
+         width="189.60054"
+         height="45.061638"
+         x="9.3256464"
+         y="160.28941"
+         ry="0.1848937" />
+      <rect
+         style="fill:#c8b7b7;stroke:#483737;stroke-width:0.321097"
+         id="rect9-2-9"
+         width="57.058952"
+         height="7.5329251"
+         x="12.046913"
+         y="161.90082"
+         ry="0.071969837" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+         x="13.789524"
+         y="166.93219"
+         id="text9-4"><tspan
+           sodipodi:role="line"
+           id="tspan9-8-7"
+           style="font-size:4.93889px;fill:#000000;stroke-width:0.264583"
+           x="13.789524"
+           y="166.93219">customer comments</tspan></text>
+      <g
+         id="g14"
+         inkscape:label="comment">
+        <rect
+           style="fill:#c8b7b7;stroke:#241c1c;stroke-width:0.252397"
+           id="rect14"
+           width="58.450859"
+           height="30.116955"
+           x="12.64297"
+           y="171.76817"
+           ry="0.18496855" />
+        <circle
+           style="fill:#483737;stroke:#241c1c;stroke-width:0.264583"
+           id="path14"
+           cx="20.112009"
+           cy="177.46634"
+           r="4.6801534" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#483737;stroke:#241c1c;stroke-width:0.264583"
+           x="26.56303"
+           y="178.35178"
+           id="text14"><tspan
+             sodipodi:role="line"
+             id="tspan14"
+             style="font-size:4.93889px;stroke-width:0.264583"
+             x="26.56303"
+             y="178.35178">user #</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="scale(0.26458333)"
+           id="text15"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect15);fill:#483737;stroke:#241c1c"><tspan
+             x="67.886719"
+             y="701.44306"
+             id="tspan37"><tspan
+               style="font-weight:normal;-inkscape-font-specification:sans-serif"
+               id="tspan36">Lorem ipsum dolor sit amet, consectetur adipiscing </tspan></tspan><tspan
+             x="67.886719"
+             y="711.44306"
+             id="tspan39"><tspan
+               style="font-weight:normal;-inkscape-font-specification:sans-serif"
+               id="tspan38">elit, sed do eiusmod tempor incididunt ut labore et </tspan></tspan><tspan
+             x="67.886719"
+             y="721.44306"
+             id="tspan41"><tspan
+               style="font-weight:normal;-inkscape-font-specification:sans-serif"
+               id="tspan40">dolore magna aliqua. Ut enim ad minim veniam, </tspan></tspan><tspan
+             x="67.886719"
+             y="731.44306"
+             id="tspan43"><tspan
+               style="font-weight:normal;-inkscape-font-specification:sans-serif"
+               id="tspan42">quis nostrud exercitation ullamco laboris nisi ut</tspan></tspan></text>
+      </g>
+      <g
+         id="g22"
+         inkscape:label="comment"
+         transform="translate(62.86584)">
+        <rect
+           style="fill:#c8b7b7;stroke:#241c1c;stroke-width:0.252397"
+           id="rect21"
+           width="58.450859"
+           height="30.116955"
+           x="12.64297"
+           y="171.76817"
+           ry="0.18496855" />
+        <circle
+           style="fill:#483737;stroke:#241c1c;stroke-width:0.264583"
+           id="circle21"
+           cx="20.112009"
+           cy="177.46634"
+           r="4.6801534" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#483737;stroke:#241c1c;stroke-width:0.264583"
+           x="26.56303"
+           y="178.35178"
+           id="text21"><tspan
+             sodipodi:role="line"
+             id="tspan21"
+             style="font-size:4.93889px;stroke-width:0.264583"
+             x="26.56303"
+             y="178.35178">user #</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="scale(0.26458333)"
+           id="text22"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect22);fill:#483737;stroke:#241c1c"><tspan
+             x="67.886719"
+             y="701.44306"
+             id="tspan45"><tspan
+               style="font-weight:normal;-inkscape-font-specification:sans-serif"
+               id="tspan44">Lorem ipsum dolor sit amet, consectetur adipiscing </tspan></tspan><tspan
+             x="67.886719"
+             y="711.44306"
+             id="tspan47"><tspan
+               style="font-weight:normal;-inkscape-font-specification:sans-serif"
+               id="tspan46">elit, sed do eiusmod tempor incididunt ut labore et </tspan></tspan><tspan
+             x="67.886719"
+             y="721.44306"
+             id="tspan49"><tspan
+               style="font-weight:normal;-inkscape-font-specification:sans-serif"
+               id="tspan48">dolore magna aliqua. Ut enim ad minim veniam, </tspan></tspan><tspan
+             x="67.886719"
+             y="731.44306"
+             id="tspan51"><tspan
+               style="font-weight:normal;-inkscape-font-specification:sans-serif"
+               id="tspan50">quis nostrud exercitation ullamco laboris nisi ut</tspan></tspan></text>
+      </g>
+      <g
+         id="g24"
+         inkscape:label="comment"
+         transform="translate(125.73168)">
+        <rect
+           style="fill:#c8b7b7;stroke:#241c1c;stroke-width:0.252397"
+           id="rect23"
+           width="58.450859"
+           height="30.116955"
+           x="12.64297"
+           y="171.76817"
+           ry="0.18496855" />
+        <circle
+           style="fill:#483737;stroke:#241c1c;stroke-width:0.264583"
+           id="circle23"
+           cx="20.112009"
+           cy="177.46634"
+           r="4.6801534" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#483737;stroke:#241c1c;stroke-width:0.264583"
+           x="26.56303"
+           y="178.35178"
+           id="text23"><tspan
+             sodipodi:role="line"
+             id="tspan23"
+             style="font-size:4.93889px;stroke-width:0.264583"
+             x="26.56303"
+             y="178.35178">user #</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="scale(0.26458333)"
+           id="text24"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect24);fill:#483737;stroke:#241c1c"><tspan
+             x="67.886719"
+             y="701.44306"
+             id="tspan53"><tspan
+               style="font-weight:normal;-inkscape-font-specification:sans-serif"
+               id="tspan52">Lorem ipsum dolor sit amet, consectetur adipiscing </tspan></tspan><tspan
+             x="67.886719"
+             y="711.44306"
+             id="tspan55"><tspan
+               style="font-weight:normal;-inkscape-font-specification:sans-serif"
+               id="tspan54">elit, sed do eiusmod tempor incididunt ut labore et </tspan></tspan><tspan
+             x="67.886719"
+             y="721.44306"
+             id="tspan57"><tspan
+               style="font-weight:normal;-inkscape-font-specification:sans-serif"
+               id="tspan56">dolore magna aliqua. Ut enim ad minim veniam, </tspan></tspan><tspan
+             x="67.886719"
+             y="731.44306"
+             id="tspan59"><tspan
+               style="font-weight:normal;-inkscape-font-specification:sans-serif"
+               id="tspan58">quis nostrud exercitation ullamco laboris nisi ut</tspan></tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#483737;stroke:#241c1c;stroke-width:0.264583"
+       x="104.48126"
+       y="73.870529"
+       id="text25"><tspan
+         sodipodi:role="line"
+         id="tspan25"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="104.48126"
+         y="73.870529">prodcut name</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#483737;stroke:#241c1c;stroke-width:0.264583"
+       x="103.97529"
+       y="81.965927"
+       id="text26"><tspan
+         sodipodi:role="line"
+         id="tspan26"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="103.97529"
+         y="81.965927">rates: 4.5</tspan></text>
+    <rect
+       style="fill:#483737;stroke:#241c1c;stroke-width:0.264583"
+       id="rect26"
+       width="59.450592"
+       height="16.696764"
+       x="135.59796"
+       y="134.33304"
+       ry="0.1848937" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#483737;stroke:#241c1c;stroke-width:0.264583"
+       x="146.9821"
+       y="144.45229"
+       id="text28"><tspan
+         sodipodi:role="line"
+         id="tspan28"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#e3dbdb;stroke:none;stroke-width:0.264583"
+         x="146.9821"
+         y="144.45229">add to cart</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#241c1c;stroke:none;stroke-width:0.264583"
+       x="136.86285"
+       y="129.77937"
+       id="text29"><tspan
+         sodipodi:role="line"
+         id="tspan29"
+         style="font-size:11.2889px;fill:#241c1c;stroke-width:0.264583"
+         x="136.86285"
+         y="129.77937">9,990,000$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#241c1c;stroke:none;stroke-width:0.264583"
+       x="104.22827"
+       y="88.037476"
+       id="text30"><tspan
+         sodipodi:role="line"
+         id="tspan30"
+         style="font-size:4.93889px;stroke-width:0.264583;fill:#241c1c"
+         x="104.22827"
+         y="88.037476">detail:</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text31"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:justify;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect31);fill:#241c1c;stroke:none"
+       x="0"
+       y="0"><tspan
+         x="408.27539"
+         y="350.6082"
+         id="tspan61"><tspan
+           dx="0 0 0 0 0 0 10.989141 0 0 0 0 0 10.989141 0 0 0 0 0 10.989134 0 0 0 10.989134 0 0 0 0 0 10.989134"
+           id="tspan60">Lorem ipsum dolor sit amet, consectetur </tspan></tspan><tspan
+         x="408.27539"
+         y="367.27483"
+         id="tspan63"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 13.682478 0 0 0 0 0 13.682478 0 0 0 13.682478 0 0 13.682478 0 0 0 0 0 0 0 13.682478"
+           id="tspan62">adipiscing elit, sed do eiusmod tempor </tspan></tspan><tspan
+         x="408.27539"
+         y="383.94145"
+         id="tspan65"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 1.9065461 0 0 1.9065537 0 0 0 0 0 0 1.9065537 0 0 1.9065537 0 0 0 0 0 0 1.9065537 0 0 0 0 0 1.9065385 0 0 0 0 0 0 0 1.9065385"
+           id="tspan64">incididunt ut labore et dolore magna aliqua. Ut </tspan></tspan><tspan
+         x="408.27539"
+         y="400.60808"
+         id="tspan67"><tspan
+           dx="0 0 0 0 0 16.354475 0 0 16.354475 0 0 0 0 0 16.354475 0 0 0 0 0 0 0 16.354475 0 0 0 0 16.354475"
+           id="tspan66">enim ad minim veniam, quis nostrud </tspan></tspan><tspan
+         x="408.27539"
+         y="417.2747"
+         id="tspan68">exercitation ullamco laboris nisi ut</tspan></text>
+  </g>
+  <script
+     src="./script.js"
+     id="script1" />
+</svg>

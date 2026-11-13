@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="vendor.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0458614"
+     inkscape:cx="477.59674"
+     inkscape:cy="465.64487"
+     inkscape:window-width="1916"
+     inkscape:window-height="1155"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g11" />
+  <defs
+     id="defs1">
+    <rect
+       x="194.71677"
+       y="968.17506"
+       width="382.67254"
+       height="110.88038"
+       id="rect71" />
+  </defs>
+  <rect
+     style="fill:#ffffff;stroke:none;stroke-width:0.264583"
+     id="rect76"
+     width="206.79079"
+     height="294.80209"
+     x="1.4310781"
+     y="0"
+     inkscape:label="background-white" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g11"
+       inkscape:label="title">
+      <rect
+         style="fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+         id="rect1"
+         width="189.73595"
+         height="29.345827"
+         x="9.1073256"
+         y="8.0953999"
+         ry="0.072509766" />
+      <text
+         xml:space="preserve"
+         style="font-size:14.1111px;writing-mode:lr-tb;direction:ltr;fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+         x="74.376488"
+         y="25.804087"
+         id="text1"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;stroke:#ffffff;stroke-width:0.264583"
+           x="74.376488"
+           y="25.804087"
+           id="tspan3">BASALAM</tspan></text>
+      <a
+         id="a3"
+         xlink:href="index.svg"
+         xlink:title="Go Home">
+        <g
+           id="g69"
+           inkscape:label="logo"
+           transform="translate(151.28279,-1.9370406)"
+           style="fill:#6c5353;stroke:#e3dbdb">
+          <circle
+             style="fill:#6c5353;stroke:#e3dbdb;stroke-width:0.264583"
+             id="path68"
+             cx="26.832716"
+             cy="24.328327"
+             r="11.090856" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#6c5353;stroke:#e3dbdb;stroke-width:0.264583"
+             x="21.82394"
+             y="25.043867"
+             id="text69"><tspan
+               sodipodi:role="line"
+               id="tspan69"
+               style="fill:#6c5353;stroke-width:0.264583;stroke:#e3dbdb"
+               x="21.82394"
+               y="25.043867">logo</tspan></text>
+        </g>
+      </a>
+      <g
+         id="g77"
+         inkscape:label="menu"
+         transform="translate(0,3.1750001)">
+        <rect
+           style="fill:#6c5353;stroke:#e3dbdb;stroke-width:0.264583"
+           id="rect77"
+           width="25.045145"
+           height="8.348382"
+           x="15.431856"
+           y="10.372231" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#6c5353;stroke:#e3dbdb;stroke-width:0.264583"
+           x="26.56303"
+           y="15.937819"
+           id="text77"><tspan
+             sodipodi:role="line"
+             id="tspan77"
+             style="fill:#ffffff;stroke-width:0.264583"
+             x="26.56303"
+             y="15.937819">☰</tspan></text>
+      </g>
+      <a
+         id="a35"
+         xlink:href="cart.svg"
+         xlink:title="Go to shopping cart page">
+        <g
+           id="g78"
+           inkscape:label="cart"
+           transform="translate(0,13.201435)">
+          <rect
+             style="fill:#6c5353;stroke:#e3dbdb;stroke-width:0.264583"
+             id="rect78"
+             width="25.045145"
+             height="8.348382"
+             x="15.431856"
+             y="10.372231" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke:none;stroke-width:0.264583"
+             x="22.960682"
+             y="28.248953"
+             id="text78"
+             transform="translate(0,-13.201435)"><tspan
+               sodipodi:role="line"
+               id="tspan78"
+               style="stroke-width:0.264583;-inkscape-font-specification:sans-serif;font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+               x="22.960682"
+               y="28.248953">cart</tspan></text>
+        </g>
+      </a>
+      <text
+         xml:space="preserve"
+         style="font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:0.264583"
+         x="94.808922"
+         y="34.345875"
+         id="text5"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#241c1c;stroke-width:0.264583"
+           x="94.808922"
+           y="34.345875">vendor</tspan></text>
+    </g>
+    <g
+       id="g10"
+       inkscape:label="search bar">
+      <rect
+         style="fill:#e3dbdb;stroke:#483737;stroke-width:0.264583"
+         id="rect4"
+         width="189.22998"
+         height="17.202724"
+         x="9.1073256"
+         y="40.982964"
+         ry="0.072509766" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#e3dbdb;stroke:#483737;stroke-width:0.264583"
+         x="50.09029"
+         y="53.63203"
+         id="text4"><tspan
+           sodipodi:role="line"
+           style="fill:#b3b3b3;stroke:none;stroke-width:0.264583"
+           x="50.09029"
+           y="53.63203"
+           id="tspan5">search anything</tspan></text>
+    </g>
+    <g
+       id="g71"
+       inkscape:label="footer">
+      <rect
+         style="fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+         id="rect69"
+         width="188.90231"
+         height="38.639111"
+         x="9.3020077"
+         y="252.22752"
+         ry="0.072509766" />
+      <g
+         id="g70"
+         inkscape:label="logo"
+         transform="matrix(1.4781673,0,0,1.4781673,137.43268,236.30127)">
+        <circle
+           style="fill:#483737;stroke:#483737;stroke-width:0.264583"
+           id="circle69"
+           cx="26.832716"
+           cy="24.328327"
+           r="11.090856" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#483737;stroke:#483737;stroke-width:0.264583"
+           x="21.82394"
+           y="25.043867"
+           id="text70"><tspan
+             sodipodi:role="line"
+             id="tspan70"
+             style="fill:#e3dbdb;stroke-width:0.264583"
+             x="21.82394"
+             y="25.043867">logo</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,5.7243125,3.2199258)"
+         id="text71"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect71);display:inline;fill:#c8b7b7;stroke:#483737"><tspan
+           x="194.7168"
+           y="985.16015"
+           id="tspan19"><tspan
+             style="fill:#483737;stroke:none"
+             id="tspan18">Lorem ipsum dolor sit amet, consectetur </tspan></tspan><tspan
+           x="194.7168"
+           y="1008.4935"
+           id="tspan22"><tspan
+             style="fill:#483737;stroke:none"
+             id="tspan21">adipiscing elit, sed do eiusmod tempor </tspan></tspan><tspan
+           x="194.7168"
+           y="1031.8269"
+           id="tspan24"><tspan
+             style="fill:#483737;stroke:none"
+             id="tspan23">incididunt ut labore et exercitation </tspan></tspan><tspan
+           x="194.7168"
+           y="1055.1603"
+           id="tspan26"><tspan
+             style="fill:#483737;stroke:none"
+             id="tspan25">ullamco laboris nisi ut.</tspan></tspan></text>
+      <rect
+         style="fill:#6c5353;stroke:#e3dbdb;stroke-width:0.264583"
+         id="rect72"
+         width="8.9442387"
+         height="8.9442387"
+         x="16.815168"
+         y="258.66736" />
+      <rect
+         style="fill:#6c5353;stroke:#e3dbdb;stroke-width:0.264583"
+         id="rect73"
+         width="8.9442387"
+         height="8.9442387"
+         x="30.052641"
+         y="258.66736" />
+      <rect
+         style="fill:#6c5353;stroke:#e3dbdb;stroke-width:0.264583"
+         id="rect74"
+         width="8.9442387"
+         height="8.9442387"
+         x="30.052641"
+         y="270.83151" />
+      <rect
+         style="fill:#6c5353;stroke:#e3dbdb;stroke-width:0.264583"
+         id="rect75"
+         width="8.9442387"
+         height="8.9442387"
+         x="16.815168"
+         y="270.83151" />
+    </g>
+  </g>
+  <script
+     src="./script.js"
+     id="script1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <g
+       id="g9"
+       inkscape:label="products"
+       transform="translate(0.25963503,65.560218)">
+      <rect
+         style="fill:#e3dbdb;stroke:#483737;stroke-width:0.447408"
+         id="rect6"
+         width="189.04716"
+         height="122.76607"
+         x="9.1987371"
+         y="62.324802"
+         ry="0.20698439" />
+      <rect
+         style="fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+         id="rect9"
+         width="38.453152"
+         height="7.589438"
+         x="11.637137"
+         y="63.751274"
+         ry="0.072509766" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+         x="13.408007"
+         y="68.810905"
+         id="text9-9"><tspan
+           sodipodi:role="line"
+           id="tspan9-3"
+           style="font-size:4.93889px;fill:#000000;stroke-width:0.264583"
+           x="13.408007"
+           y="68.810905">products</tspan></text>
+      <a
+         id="a1"
+         xlink:href="product.svg"
+         xlink:title="Go to product page"
+         transform="matrix(1.5131645,0,0,1.5131645,-100.29636,-30.872867)">
+        <g
+           id="g20"
+           inkscape:label="product"
+           transform="translate(148.5,-0.75894377)">
+          <rect
+             style="fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             id="rect20"
+             width="28.839863"
+             height="29.598806"
+             x="18.467632"
+             y="73.870529"
+             ry="0.072509766" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             x="22.768314"
+             y="89.80835"
+             id="text20"><tspan
+               sodipodi:role="line"
+               id="tspan20"
+               style="fill:#000000;stroke-width:0.264583"
+               x="22.768314"
+               y="89.80835">product</tspan></text>
+        </g>
+      </a>
+      <a
+         id="a2"
+         xlink:href="product.svg"
+         xlink:title="Go to product page"
+         transform="matrix(1.5131645,0,0,1.5131645,-146.85367,-30.872867)">
+        <g
+           id="g2"
+           inkscape:label="product"
+           transform="translate(148.5,-0.75894377)">
+          <rect
+             style="fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             id="rect2"
+             width="28.839863"
+             height="29.598806"
+             x="18.467632"
+             y="73.870529"
+             ry="0.072509766" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             x="22.768314"
+             y="89.80835"
+             id="text2"><tspan
+               sodipodi:role="line"
+               id="tspan2"
+               style="fill:#000000;stroke-width:0.264583"
+               x="22.768314"
+               y="89.80835">product</tspan></text>
+        </g>
+      </a>
+      <a
+         id="a5"
+         xlink:href="product.svg"
+         xlink:title="Go to product page"
+         transform="matrix(1.5131645,0,0,1.5131645,-193.41099,-30.872867)"
+         inkscape:label="a3">
+        <g
+           id="g5"
+           inkscape:label="product"
+           transform="translate(148.5,-0.75894377)">
+          <rect
+             style="fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             id="rect3"
+             width="28.839863"
+             height="29.598806"
+             x="18.467632"
+             y="73.870529"
+             ry="0.072509766" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             x="22.768314"
+             y="89.80835"
+             id="text5-6"><tspan
+               sodipodi:role="line"
+               id="tspan4-0"
+               style="fill:#000000;stroke-width:0.264583"
+               x="22.768314"
+               y="89.80835">product</tspan></text>
+        </g>
+      </a>
+      <a
+         id="a6"
+         xlink:href="product.svg"
+         xlink:title="Go to product page"
+         transform="matrix(1.5131645,0,0,1.5131645,-240.50967,-30.872867)"
+         inkscape:label="a4">
+        <g
+           id="g6"
+           inkscape:label="product"
+           transform="translate(148.5,-0.75894377)">
+          <rect
+             style="fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             id="rect5-6"
+             width="28.839863"
+             height="29.598806"
+             x="18.467632"
+             y="73.870529"
+             ry="0.072509766" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             x="22.768314"
+             y="89.80835"
+             id="text6-2"><tspan
+               sodipodi:role="line"
+               id="tspan6-6"
+               style="fill:#000000;stroke-width:0.264583"
+               x="22.768314"
+               y="89.80835">product</tspan></text>
+        </g>
+      </a>
+      <a
+         id="a15"
+         xlink:href="product.svg"
+         xlink:title="Go to product page"
+         transform="matrix(1.5131645,0,0,1.5131645,-100.54934,18.964441)">
+        <g
+           id="g15"
+           inkscape:label="product"
+           transform="translate(148.5,-0.75894377)">
+          <rect
+             style="fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             id="rect14"
+             width="28.839863"
+             height="29.598806"
+             x="18.467632"
+             y="73.870529"
+             ry="0.072509766" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             x="22.768314"
+             y="89.80835"
+             id="text14"><tspan
+               sodipodi:role="line"
+               id="tspan14"
+               style="fill:#000000;stroke-width:0.264583"
+               x="22.768314"
+               y="89.80835">product</tspan></text>
+        </g>
+      </a>
+      <a
+         id="a16"
+         xlink:href="product.svg"
+         xlink:title="Go to product page"
+         transform="matrix(1.5131645,0,0,1.5131645,-147.10665,18.964441)">
+        <g
+           id="g16"
+           inkscape:label="product"
+           transform="translate(148.5,-0.75894377)">
+          <rect
+             style="fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             id="rect15"
+             width="28.839863"
+             height="29.598806"
+             x="18.467632"
+             y="73.870529"
+             ry="0.072509766" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             x="22.768314"
+             y="89.80835"
+             id="text15"><tspan
+               sodipodi:role="line"
+               id="tspan15"
+               style="fill:#000000;stroke-width:0.264583"
+               x="22.768314"
+               y="89.80835">product</tspan></text>
+        </g>
+      </a>
+      <a
+         id="a17"
+         xlink:href="product.svg"
+         xlink:title="Go to product page"
+         transform="matrix(1.5131645,0,0,1.5131645,-193.66397,18.964441)"
+         inkscape:label="a3">
+        <g
+           id="g17"
+           inkscape:label="product"
+           transform="translate(148.5,-0.75894377)">
+          <rect
+             style="fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             id="rect16"
+             width="28.839863"
+             height="29.598806"
+             x="18.467632"
+             y="73.870529"
+             ry="0.072509766" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             x="22.768314"
+             y="89.80835"
+             id="text16"><tspan
+               sodipodi:role="line"
+               id="tspan16"
+               style="fill:#000000;stroke-width:0.264583"
+               x="22.768314"
+               y="89.80835">product</tspan></text>
+        </g>
+      </a>
+      <a
+         id="a18"
+         xlink:href="product.svg"
+         xlink:title="Go to product page"
+         transform="matrix(1.5131645,0,0,1.5131645,-240.76265,18.964441)"
+         inkscape:label="a4">
+        <g
+           id="g18"
+           inkscape:label="product"
+           transform="translate(148.5,-0.75894377)">
+          <rect
+             style="fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             id="rect17"
+             width="28.839863"
+             height="29.598806"
+             x="18.467632"
+             y="73.870529"
+             ry="0.072509766" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#c8b7b7;stroke:#483737;stroke-width:0.264583"
+             x="22.768314"
+             y="89.80835"
+             id="text17"><tspan
+               sodipodi:role="line"
+               id="tspan17"
+               style="fill:#000000;stroke-width:0.264583"
+               x="22.768314"
+               y="89.80835">product</tspan></text>
+        </g>
+      </a>
+    </g>
+    <g
+       id="g14"
+       inkscape:label="top_section">
+      <rect
+         style="fill:#e3dbdb;stroke:#241c1c;stroke-width:0.264583"
+         id="rect5"
+         width="188.72403"
+         height="65.775124"
+         x="9.3603067"
+         y="60.209538" />
+      <circle
+         style="fill:#483737;stroke:#241c1c;stroke-width:0.264583"
+         id="path5"
+         cx="46.675041"
+         cy="91.958687"
+         r="27.701448" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#483737;stroke:#241c1c;stroke-width:0.264583"
+         x="29.851788"
+         y="93.603065"
+         id="text6"><tspan
+           sodipodi:role="line"
+           id="tspan6"
+           style="font-size:11.2889px;fill:#e3dbdb;stroke:none;stroke-width:0.264583"
+           x="29.851788"
+           y="93.603065">avatar</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#e3dbdb;stroke:none;stroke-width:0.264583"
+         x="73.11158"
+         y="73.754509"
+         id="text7"><tspan
+           sodipodi:role="line"
+           id="tspan7"
+           style="font-size:9.87778px;fill:#241c1c;stroke-width:0.264583"
+           x="73.11158"
+           y="73.754509">vendor name</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';writing-mode:lr-tb;direction:ltr;fill:#241c1c;stroke:none;stroke-width:0.264583"
+         x="79.183128"
+         y="82.618309"
+         id="text8"><tspan
+           sodipodi:role="line"
+           id="tspan8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+           x="79.183128"
+           y="82.618309">city: qom</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#241c1c;stroke:none;stroke-width:0.264583"
+         x="79.436111"
+         y="91.013626"
+         id="text9"><tspan
+           sodipodi:role="line"
+           id="tspan9"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="79.436111"
+           y="91.013626">rates: 5</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#241c1c;stroke:none;stroke-width:0.264583"
+         x="77.665245"
+         y="99.537003"
+         id="text11"><tspan
+           sodipodi:role="line"
+           id="tspan11"
+           style="font-size:4.58611px;stroke-width:0.264583"
+           x="77.665245"
+           y="99.537003">followers: 1k</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#241c1c;stroke:none;stroke-width:0.264583"
+         x="75.135437"
+         y="108.02299"
+         id="text12"><tspan
+           sodipodi:role="line"
+           id="tspan12"
+           style="font-size:3.88056px;stroke-width:0.264583"
+           x="75.135437"
+           y="108.02299">products: 565</tspan></text>
+      <g
+         id="g13"
+         inkscape:label="follow_button">
+        <rect
+           style="fill:#483737;stroke:none;stroke-width:0.264583"
+           id="rect12"
+           width="43.259796"
+           height="10.11925"
+           x="151.28279"
+           y="65.269165" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#483737;stroke:none;stroke-width:0.264583"
+           x="162.41397"
+           y="72.858604"
+           id="text13"><tspan
+             sodipodi:role="line"
+             id="tspan13"
+             style="font-weight:bold;font-size:7.05556px;fill:#ffffff;stroke-width:0.264583"
+             x="162.41397"
+             y="72.858604">follow</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
